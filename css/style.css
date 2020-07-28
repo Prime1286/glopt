@@ -521,9 +521,6 @@ width: 100%;
 margin-bottom: 46px;
 margin-right: 45px;
 }
-.work_map_item:nth-child(4) {
-margin-right: 0;    
-}
 /* recommends section */
 .recommends {
 padding: 51px 0 5px;  
